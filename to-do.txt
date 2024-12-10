@@ -1,0 +1,7 @@
+- Ikon ved hver ting der er udviklet til projekt som man kan klikke på og lære hvordan hver ting er lavet og tankerne bag
+- Model viewer på vr siden
+- Produktions tal på forsiden
+- AI news fra fabrikken (skal generes engang om ugen måske?
+- Ongoing projekter (lidt lige som opgaver, som elever kan hoppe på og løse)
+- Billeder til alle ansatte
+- 
