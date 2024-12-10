@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fabrikken/static/css/main.0b3aed61.css",
-    "main.js": "/Fabrikken/static/js/main.f9e5a422.js",
+    "main.js": "/Fabrikken/static/js/main.eb47767e.js",
     "static/js/453.8ec9365c.chunk.js": "/Fabrikken/static/js/453.8ec9365c.chunk.js",
     "static/media/vr-demo.mp4": "/Fabrikken/static/media/vr-demo.9b77dad0376ef1c7cf20.mp4",
     "static/media/about-hero-video.mp4": "/Fabrikken/static/media/about-hero-video.68fea8d6252c46710b96.mp4",
@@ -19,11 +19,11 @@
     "static/media/5-axis-End-Milling-Machine-for-Aluminum-Profile-4.jpg": "/Fabrikken/static/media/5-axis-End-Milling-Machine-for-Aluminum-Profile-4.84ddb62829369512b858.jpg",
     "index.html": "/Fabrikken/index.html",
     "main.0b3aed61.css.map": "/Fabrikken/static/css/main.0b3aed61.css.map",
-    "main.f9e5a422.js.map": "/Fabrikken/static/js/main.f9e5a422.js.map",
+    "main.eb47767e.js.map": "/Fabrikken/static/js/main.eb47767e.js.map",
     "453.8ec9365c.chunk.js.map": "/Fabrikken/static/js/453.8ec9365c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b3aed61.css",
-    "static/js/main.f9e5a422.js"
+    "static/js/main.eb47767e.js"
   ]
 }
