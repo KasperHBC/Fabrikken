@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Fabrikken/static/css/main.0b3aed61.css",
+    "main.js": "/Fabrikken/static/js/main.c55e1f8e.js",
+    "static/js/453.8ec9365c.chunk.js": "/Fabrikken/static/js/453.8ec9365c.chunk.js",
+    "static/media/vr-demo.mp4": "/Fabrikken/static/media/vr-demo.9b77dad0376ef1c7cf20.mp4",
+    "static/media/about-hero-video.mp4": "/Fabrikken/static/media/about-hero-video.68fea8d6252c46710b96.mp4",
+    "static/media/vr-hero-video.mp4": "/Fabrikken/static/media/vr-hero-video.956ac03aac8e7be3931c.mp4",
+    "static/media/admin-hero-video.mp4": "/Fabrikken/static/media/admin-hero-video.506d14261f9cf21499c0.mp4",
+    "static/media/hero-video.mp4": "/Fabrikken/static/media/hero-video.506d14261f9cf21499c0.mp4",
+    "static/media/sales-hero-video.mp4": "/Fabrikken/static/media/sales-hero-video.506d14261f9cf21499c0.mp4",
+    "static/media/ArduinoUno.glb": "/Fabrikken/static/media/ArduinoUno.dc0a9059ecbf3d55b1c0.glb",
+    "static/media/employees-hero-video.mp4": "/Fabrikken/static/media/employees-hero-video.e3dccd3d423a539ca136.mp4",
+    "static/media/Donkraft2.glb": "/Fabrikken/static/media/Donkraft2.2a8397c1fb4c44ba6f3f.glb",
+    "static/media/Universal-Robot.png": "/Fabrikken/static/media/Universal-Robot.00f3da038a1dc613ab51.png",
+    "static/media/ArduinoUno-thumbnail.jpg": "/Fabrikken/static/media/ArduinoUno-thumbnail.1a4ae0dbcbdd91a5dc1d.jpg",
+    "static/media/P1S_Combo_v1.jpg": "/Fabrikken/static/media/P1S_Combo_v1.ae249c111d8d3b3e7edc.jpg",
+    "static/media/Donkraft2-thumbnail.jpg": "/Fabrikken/static/media/Donkraft2-thumbnail.65c2a13677c53d69d0c8.jpg",
+    "static/media/5-axis-End-Milling-Machine-for-Aluminum-Profile-4.jpg": "/Fabrikken/static/media/5-axis-End-Milling-Machine-for-Aluminum-Profile-4.84ddb62829369512b858.jpg",
+    "index.html": "/Fabrikken/index.html",
+    "main.0b3aed61.css.map": "/Fabrikken/static/css/main.0b3aed61.css.map",
+    "main.c55e1f8e.js.map": "/Fabrikken/static/js/main.c55e1f8e.js.map",
+    "453.8ec9365c.chunk.js.map": "/Fabrikken/static/js/453.8ec9365c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3aed61.css",
+    "static/js/main.c55e1f8e.js"
+  ]
+}
