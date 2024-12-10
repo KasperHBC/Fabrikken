@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.0b3aed61.css",
-    "main.js": "./static/js/main.9a276c2b.js",
+    "main.js": "./static/js/main.ad3a88a3.js",
     "static/js/453.8ec9365c.chunk.js": "./static/js/453.8ec9365c.chunk.js",
     "static/media/vr-demo.mp4": "./static/media/vr-demo.9b77dad0376ef1c7cf20.mp4",
     "static/media/about-hero-video.mp4": "./static/media/about-hero-video.68fea8d6252c46710b96.mp4",
@@ -19,11 +19,11 @@
     "static/media/5-axis-End-Milling-Machine-for-Aluminum-Profile-4.jpg": "./static/media/5-axis-End-Milling-Machine-for-Aluminum-Profile-4.84ddb62829369512b858.jpg",
     "index.html": "./index.html",
     "main.0b3aed61.css.map": "./static/css/main.0b3aed61.css.map",
-    "main.9a276c2b.js.map": "./static/js/main.9a276c2b.js.map",
+    "main.ad3a88a3.js.map": "./static/js/main.ad3a88a3.js.map",
     "453.8ec9365c.chunk.js.map": "./static/js/453.8ec9365c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b3aed61.css",
-    "static/js/main.9a276c2b.js"
+    "static/js/main.ad3a88a3.js"
   ]
 }
