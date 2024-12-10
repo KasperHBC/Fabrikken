@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "private": true,
-  "homepage": "https://KasperHBC.github.io/Fabrikken",
+  "homepage": "https://KasperHBC.github.io/Fabrikken/",
   "proxy": "https://api.notion.com",
   "dependencies": {
     "@google/model-viewer": "^4.0.0",
